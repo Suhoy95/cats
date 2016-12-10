@@ -9,12 +9,9 @@ h1 {
 
 body {
     background: url('img/bg.png');
+     overflow-x: hidden;
 }
 
-main {
-        width: 100vw;
-    overflow: hidden;
-}
 .slick-track {
     display: flex;
     align-items: center;
