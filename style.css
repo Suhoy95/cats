@@ -1,0 +1,17 @@
+* {margin: 0; padding: 0;}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    padding: 0.5em;
+    font-family: cursive;
+}
+
+body {
+    background: url('img/bg.png');
+}
+
+.slick-track {
+    display: flex;
+    align-items: center;
+}
