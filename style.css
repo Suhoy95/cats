@@ -11,6 +11,10 @@ body {
     background: url('img/bg.png');
 }
 
+main {
+        width: 100vw;
+    overflow: hidden;
+}
 .slick-track {
     display: flex;
     align-items: center;
