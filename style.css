@@ -11,6 +11,13 @@ h1 {
 body {
     background: url('img/bg.png');
     overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.slick-dotted.slick-slider.eee {
+    margin-bottom: 80px;
 }
 
 .slick-track {
